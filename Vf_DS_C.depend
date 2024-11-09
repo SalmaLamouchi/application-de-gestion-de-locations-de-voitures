@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1702207468 source:c:\universite centrale\langage c\vf_ds_c\client.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vehicule.h"
+	"parc.h"
+	"client.h"
+	"location.h"
+
+1702218181 c:\universite centrale\langage c\vf_ds_c\client.h
+
+1702207474 source:c:\universite centrale\langage c\vf_ds_c\vehicule.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vehicule.h"
+	"parc.h"
+	"client.h"
+	"location.h"
+
+1702207351 c:\universite centrale\langage c\vf_ds_c\vehicule.h
+
+1702224887 source:c:\universite centrale\langage c\vf_ds_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vehicule.h"
+	"parc.h"
+	"client.h"
+	"location.h"
+
+1702207289 c:\universite centrale\langage c\vf_ds_c\parc.h
+
+1702219149 c:\universite centrale\langage c\vf_ds_c\location.h
+
+1702218508 source:c:\universite centrale\langage c\vf_ds_c\location.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vehicule.h"
+	"parc.h"
+	"client.h"
+	"location.h"
+
+1702207477 source:c:\universite centrale\langage c\vf_ds_c\parc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vehicule.h"
+	"parc.h"
+	"client.h"
+	"location.h"
+
